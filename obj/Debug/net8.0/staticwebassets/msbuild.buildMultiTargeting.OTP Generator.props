@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OTP Generator.props" />
+</Project>
